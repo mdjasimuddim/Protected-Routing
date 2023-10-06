@@ -1,0 +1,13 @@
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #202020;
+  color: #fff;
+  height: 10vh;
+}
+nav .Nav_link{
+  color: white;
+  margin: 10px;
+  text-decoration:none;
+}
